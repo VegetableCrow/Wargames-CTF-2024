@@ -53,7 +53,7 @@ So with all the information, here is the logic.
 The whole local date check with the current date is just a distraction, it won't give you the flag.
 So we coming to the get request part where we will be send a parameter payload to the server
 `params = {'first_flag': first_flag, 'date': user_date}`
-The user_date we will change it to the date of the premier of the youtube video then send it to the server together with the first part of flag.
+The user_date we will change it to the date of the premier of the youtube video then send it to the server together with the first part of flag.<br>
 ![image](https://github.com/user-attachments/assets/d1f4a46a-5d03-4255-96ab-5e3a3ae94134)
 <br>
 <br>
