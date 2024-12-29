@@ -12,8 +12,10 @@ In this challenge, we are only provided with one file with a weird extension.
 As usual, always check file type and its strings content to know what the file is made of.
 In this case, the file is a Windows executable and code with python.<br>
 `file stones.whatdis`<br>
+<br>
 ![image](https://github.com/user-attachments/assets/83502020-b4fe-41b0-a684-e0ede0477e6e)<br>
 `strings stones.whatdis`<br>
+<br>
 ![image](https://github.com/user-attachments/assets/e1a38061-ea2f-4190-992b-834193f10d32)<br>
 <br>
 <br>
